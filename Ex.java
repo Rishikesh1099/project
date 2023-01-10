@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 public class Ex {
 
 	public static void m() throws FileNotFoundException  {
+		System.out.println("hallo");
+		
 		FileInputStream h= new  FileInputStream("C:\\Users\\Rishikesh Dubey\\Desktop\\Rishikesh dubey\\JavaProject\\hjh");
 		System.out.println("***");
 	}
