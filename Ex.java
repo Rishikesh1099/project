@@ -11,6 +11,8 @@ public class Ex {
 	System.out.println("***");
 	}
 	public static void main(String[] args) throws FileNotFoundException {
+		System.out.println("for git practice");
+
 //		 m();
 //		 System.out.println("hii");
 		
